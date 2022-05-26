@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Dz_17">Задание 17</string>
+    <string name="setSecond">Введите число</string>
+    <string name="buttonStart">Старт</string>
+    <string name="timer">Таймер</string>
+</resources>
